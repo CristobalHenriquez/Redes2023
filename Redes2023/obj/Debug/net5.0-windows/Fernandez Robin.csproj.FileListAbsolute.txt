@@ -1,0 +1,19 @@
+D:\robinredes\Fernandez Robin\Fernandez Robin\bin\Debug\net5.0-windows\Fernandez Robin.exe
+D:\robinredes\Fernandez Robin\Fernandez Robin\bin\Debug\net5.0-windows\Fernandez Robin.deps.json
+D:\robinredes\Fernandez Robin\Fernandez Robin\bin\Debug\net5.0-windows\Fernandez Robin.runtimeconfig.json
+D:\robinredes\Fernandez Robin\Fernandez Robin\bin\Debug\net5.0-windows\Fernandez Robin.runtimeconfig.dev.json
+D:\robinredes\Fernandez Robin\Fernandez Robin\bin\Debug\net5.0-windows\Fernandez Robin.dll
+D:\robinredes\Fernandez Robin\Fernandez Robin\bin\Debug\net5.0-windows\ref\Fernandez Robin.dll
+D:\robinredes\Fernandez Robin\Fernandez Robin\bin\Debug\net5.0-windows\Fernandez Robin.pdb
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.csproj.AssemblyReference.cache
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez_Robin.Form1.resources
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.csproj.GenerateResource.cache
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.GeneratedMSBuildEditorConfig.editorconfig
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.AssemblyInfoInputs.cache
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.AssemblyInfo.cs
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.csproj.CoreCompileInputs.cache
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.dll
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\ref\Fernandez Robin.dll
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.pdb
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez Robin.genruntimeconfig.cache
+D:\robinredes\Fernandez Robin\Fernandez Robin\obj\Debug\net5.0-windows\Fernandez_Robin.Properties.Resources.resources
